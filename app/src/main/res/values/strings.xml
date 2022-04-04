@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">Chiara Poop</string>
+
+    <string name="nav_1">Home</string>
+    <string name="nav_2">Obiettivi</string>
+    <string name="nav_3">Classifica</string>
+    <string name="nav_4">Profilo</string>
+    <string name="add_a_poop">Add a Poop</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
 </resources>
